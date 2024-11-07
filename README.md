@@ -1,4 +1,8 @@
-## Hi there 👋
+## kobapi28
+
+- Shoma Kobayashi (21)
+- Web Frontend Engineer
+
 
 <!--
 **kobapi28/kobapi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
