@@ -3,6 +3,7 @@
 - Shoma Kobayashi (21)
 - Web Frontend Engineer
 - X: [kobapi28](https://twitter.com/kobapi28)
+- Youtrust: [kobapi](https://youtrust.jp/users/kobapi)
 
 
 <!--
